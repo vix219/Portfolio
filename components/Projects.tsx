@@ -1,13 +1,21 @@
 "use client";
 
-type ImageCarouselProps = {
-  images: string[]; // array of image URLs or paths
-  title: string;    // title of the carousel
-};
-
 
 import { useState } from "react";
 import Image from "next/image";
+
+type ImageCarouselProps = {
+  images: string[];
+  title: string;
+};
+
+type Project = {
+  title: string;
+  tech: string;
+  images: string[];
+  link: string;
+  features: string[];
+};
 
 const projects = [
   {
@@ -52,7 +60,7 @@ const projects = [
 
 
 function ImageCarousel({ images, title }: ImageCarouselProps) {
-  const [current, setCurrent] = useState(0);
+  const [current, setCurrent] = useState<number>(0);
 
   const next = () =>
     setCurrent((prev) => (prev + 1) % images.length);
