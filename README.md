@@ -1,6 +1,6 @@
 # Victoria Lima De Carvalho — Projects Web App
 
-![GitHub followers](https://img.shields.io/github/followers/vix219?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/vix219?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/vix219/projects-web-app)
+![GitHub followers](https://img.shields.io/github/followers/vix219?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/vix219?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/vix219/Portfolio)
 
 > **Interactive portfolio for recruiters and hiring managers**  
 > Showcasing my projects, skills, and experience as a **Junior Full-Stack Software Engineer**.
