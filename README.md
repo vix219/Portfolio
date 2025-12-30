@@ -13,8 +13,7 @@
 - **About Page** – Background, skills, and education.
 - **Projects Dashboard** – Interactive project cards:
   - Project title, description, tech stack
-  - Key features and links to GitHub/live demos
-- **Responsive Design** – Mobile-first with Tailwind CSS.
+  - Key features and links to GitHub repos
 - **Clean UI/UX** – Modern look with hover effects and intuitive navigation.
 
 ---
@@ -23,7 +22,6 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) 
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-teal?style=flat-square&logo=tailwind-css) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
@@ -40,8 +38,7 @@
 - Responsive React interface with reusable components and real-time state updates.  
 - Authentication and role-based access features.  
 
-**Demo / Screenshot:**  
-![NextGen Screenshot](./images/nextgen-demo.gif) *(Replace with actual GIF or screenshot)*  
+**Demo**
 
 [View Project](https://github.com/KerissaGit/Project-NextGen-Pediatric)
 
@@ -55,8 +52,8 @@
 - User authentication, image upload, and profile editing.  
 - Mobile-first responsive UI components.  
 
-**Demo / Screenshot:**  
-![Fruitful Screenshot](./images/fruitful-demo.gif) *(Replace with actual GIF or screenshot)*  
+**Demo:**  
+
 
 [View Project](https://github.com/vix219/Phase-5-Project-Fruitful)
 
@@ -69,8 +66,7 @@
 - Modular and reusable classes/functions for maintainability.  
 - Accurate menu navigation and user validation.  
 
-**Demo / Screenshot:**  
-![Thirsty Python Screenshot](./images/thirsty-python-demo.gif) *(Replace with actual GIF or screenshot)*  
+**Demo**  
 
 [View Project](https://github.com/Ketchuso/Thirsty-Python-Bar)
 
