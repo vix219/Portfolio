@@ -41,6 +41,12 @@
 **Demo**
 
 [View Project](https://github.com/KerissaGit/Project-NextGen-Pediatric)
+## Screenshots
+
+![NextGen Home Page](public/NextGen1.png) 
+![NextGen Portal](public/NextGen2.png) 
+![NextGen Doctors](public/NextGen3.png) 
+![NextGen Appointments](public/NextGen4.png) 
 
 ---
 
@@ -57,6 +63,14 @@
 
 [View Project](https://github.com/vix219/Phase-5-Project-Fruitful)
 
+## Screenshots
+
+![Fruitful Home Page](public/Fruitful1.png) 
+![Fruitful Fruits](public/Fruitful2.png) 
+![Fruitful Map](public/Fruitful3.png)  
+![Fruitful Forum](public/Fruitful4.png)
+![Fruitful Portal](public/Fruitful5.png) 
+
 ---
 
 ### 3. The Thirsty Python Bar — Python CLI Application
@@ -69,6 +83,13 @@
 **Demo**  
 
 [View Project](https://github.com/Ketchuso/Thirsty-Python-Bar)
+
+## Screenshots
+
+![ThirstyPython](public/Thirsty-Python1.png) 
+![ThirstyPython](public/Thirsty-Python2.png) 
+![ThirstyPython](public/Thirsty-Python3.png) 
+ 
 
 ---
 
