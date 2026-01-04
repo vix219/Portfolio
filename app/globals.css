@@ -38,6 +38,10 @@
   margin-bottom: 1rem;
 }
 
+.card-content {
+  font-size:large;
+  margin-bottom: 1rem;
+}
 /* buttons */
 .button-group {
   display: flex;

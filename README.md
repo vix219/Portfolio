@@ -28,29 +28,8 @@
 
 ---
 
-## 📂 Projects
 
-### 1. NextGen Pediatrics — Full-Stack Appointment Scheduling App
-**Technologies:** React • Flask • SQLite • SQLAlchemy  
-**Features:**  
-- Patient scheduling system with appointment booking, doctor profiles, and reviews.  
-- Secure backend routes and database CRUD functionality.  
-- Responsive React interface with reusable components and real-time state updates.  
-- Authentication and role-based access features.  
-
-**Demo**
-
-[View Project](https://github.com/KerissaGit/Project-NextGen-Pediatric)
-## Screenshots
-
-![NextGen Home Page](public/NextGen1.png) 
-![NextGen Portal](public/NextGen2.png) 
-![NextGen Doctors](public/NextGen3.png) 
-![NextGen Appointments](public/NextGen4.png) 
-
----
-
-### 2. Fruitful — Geolocation Fruit Tree Tracker
+### 1. Fruitful — Geolocation Fruit Tree Tracker
 **Technologies:** React • Flask • SQLAlchemy • Google Maps API  
 **Features:**  
 - RESTful APIs for users, posts, and tree logging.  
@@ -70,6 +49,28 @@
 ![Fruitful Map](public/Fruitful3.png)  
 ![Fruitful Forum](public/Fruitful4.png)
 ![Fruitful Portal](public/Fruitful5.png) 
+
+---
+
+## 📂 Projects
+
+### 2. NextGen Pediatrics — Full-Stack Appointment Scheduling App
+**Technologies:** React • Flask • SQLite • SQLAlchemy  
+**Features:**  
+- Patient scheduling system with appointment booking, doctor profiles, and reviews.  
+- Secure backend routes and database CRUD functionality.  
+- Responsive React interface with reusable components and real-time state updates.  
+- Authentication and role-based access features.  
+
+**Demo**
+
+[View Project](https://github.com/KerissaGit/Project-NextGen-Pediatric)
+## Screenshots
+
+![NextGen Home Page](public/NextGen1.png) 
+![NextGen Portal](public/NextGen2.png) 
+![NextGen Doctors](public/NextGen3.png) 
+![NextGen Appointments](public/NextGen4.png) 
 
 ---
 

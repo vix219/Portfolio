@@ -7,11 +7,12 @@ export default function AboutPage() {
 
         <div className="card">
           <h3 className="card-title">Summary</h3>
-          <p>
-            I’m a Junior Software Engineer trained at Flatiron School, 
-            passionate about building full-stack applications that solve real problems. 
-            Skilled in responsive UIs, RESTful APIs, and clean, maintainable code with JavaScript, React, Python, and Flask. 
-            I enjoy collaborating across teams to bring ideas to life.
+          <p className="card-content">
+            I’m a Junior Software Engineer with full-stack training from Flatiron School, experienced in building responsive 
+            React frontends and RESTful APIs using Python and Flask. Strong foundation in JavaScript, SQL, and clean, 
+            maintainable code, with hands-on experience delivering end-to-end features from concept to deployment. 
+            Brings 6+ years of leadership and operations experience, enabling clear communication, ownership, and effective 
+            collaboration in engineering teams.
           </p>
         </div>
 
